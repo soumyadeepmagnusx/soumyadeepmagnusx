@@ -39,3 +39,73 @@
 
 ```bash
 $ curl -s https://api.soumyadeep.dev/v1/telemetry | jq .
+```
+```json
+{
+  "node": "soumyadeepmagnusx // Sovereign Neural Core",
+  "status": "ONLINE",
+  "latency_p99": "0.84ms",
+  "active_deployments": [
+    {
+      "system": "RAINSHIELD-AI v6.0",
+      "target": "Ministry of Earth Sciences (SIH26071)",
+      "telemetry": "2D Hydrodynamic Inundation + DWR Radar Ingestion"
+    },
+    {
+      "system": "GemmaSentinel 2.0",
+      "target": "Oracle Kolkata x Hacktoberfest",
+      "telemetry": "AST Security Traversal + Groq LPU Voice Copilot"
+    }
+  ],
+  "invariants": ["Zero-Hallucination AST Verification", "Mass Conservation Hydrodynamics"]
+}
+```
+
+---
+
+### 🧠 `whoami // Neural & Systems Telemetry`
+
+```yaml
+engineer:
+  handle: "Soumyadeep G. (@soumyadeepmagnusx)"
+  core_specialization: "Spatiotemporal Deep Learning & Autonomous Agentic Pipelines"
+  status: "⚡ In Production // Hackathon Winner & Finalist"
+  
+flagship_domains:
+  - 🛰️ Spatiotemporal Geospatial AI:
+      capabilities: "Multi-Source Radar/Satellite Fusion • 2D Hydrodynamic Flood Routing • NWP Convective Storm Casting"
+  - 🛡️ Agentic Security & Code Intelligence:
+      capabilities: "Deterministic AST Vulnerability Parsing • Groq LPU Sub-Second Inference • Google Gemma"
+  - 🗄️ High-Throughput Database Telemetry:
+      capabilities: "Oracle SQL Execution Plan Optimization • MongoDB Atlas Time-Series • ElevenLabs Voice Streams"
+```
+
+---
+
+### 🛠️ `stack // Weaponry & Toolchain`
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,docker,mongodb,postgres,git,githubactions,linux,vscode&perline=11" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+### 🏆 `spotlight // Flagship Engineering Systems`
+
+#### 🌊 [RAINSHIELD-AI v6.0](https://github.com/soumyadeepmagnusx/rainshield-ai-sih26071) — *Spatiotemporal Rainfall & 2D Inundation Command Center*
+> [!TIP]
+> **Ministry of Earth Sciences (MoES) // Smart India Hackathon (SIH26071)**  
+> `Status: 🟢 Production-Ready Engine` • `Domain: Spatiotemporal Geospatial ML`
+
+* **Multimodal Meteorological Ingestion:** Ingests live INSAT satellite channels, Doppler Weather Radar (DWR) reflectivity cubes, automated surface weather stations, and Numerical Weather Prediction (NWP) grids.
+* **2D Hydrodynamic Surface Inundation:** Replaces brittle single-threshold rainfall gauges with localized 2D floodwater accumulation modeling down to municipal ward resolution.
+* **Disaster Command Telemetry:** Continuous convective storm evolution tracking with sub-second alert dispatch to mitigate flash-flood emergencies.
+* **Stack:** `Python` • `PyTorch` • `Spatiotemporal Deep Learning` • `GIS Hydrodynamics` • `Radar Telemetry`
+
+<details>
+<summary><b>🔍 Expand System Dataflow & Architecture Blueprint</b></summary>
+<br/>
