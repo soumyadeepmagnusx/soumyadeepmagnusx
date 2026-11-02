@@ -1,18 +1,16 @@
 <div align="center">
 
-# ⚡ SOUMYADEEP G.
-### `Applied AI Engineer • Spatiotemporal Deep Learning • Autonomous Agents`
+<!-- 🌊 CYBER WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,18,24,30&height=230&section=header&text=SOUMYADEEP%20G.&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=%E2%88%95%E2%88%95%20Applied%20AI%20%E2%80%A2%20Spatiotemporal%20Modeling%20%E2%80%A2%20Autonomous%20Agents&descFontSize=18&descAlignY=62&descAlign=50" width="100%"/>
 
-<br/>
-
-<!-- NEON TYPEWRITER -->
+<!-- ⚡ NEON TYPEWRITER TERMINAL -->
 <a href="https://github.com/soumyadeepmagnusx">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Architecting+Spatiotemporal+Disaster+Intelligence;%F0%9F%9B%A1%EF%B8%8F+Autonomous+LLM+Agents+%26+AST+Code+Security;%F0%9F%8C%8A+2D+Hydrodynamic+Flood+Inundation+Forecasting;%F0%9F%9A%80+Google+Gemma+%E2%80%A2+Groq+LPU+%E2%80%A2+PyTorch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Architecting+Spatiotemporal+Disaster+Intelligence;%F0%9F%9B%A1%EF%B8%8F+Autonomous+LLM+Agents+%26+AST+Code+Security;%F0%9F%8C%8A+2D+Hydrodynamic+Flood+Inundation+Forecasting;%F0%9F%9A%80+Google+Gemma+%E2%80%A2+Groq+LPU+%E2%80%A2+PyTorch" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- STATUS & TELEMETRY PILLS -->
+<!-- 🛰️ TELEMETRY PILLS & VISITOR COUNTER -->
 <a href="https://github.com/soumyadeepmagnusx">
   <img src="https://img.shields.io/badge/MISSION-EARTH_SCIENCES-00F0FF?style=for-the-badge&logoColor=black&labelColor=0d1117" />
 </a>
@@ -26,12 +24,19 @@
   <img src="https://komarev.com/ghpvc/?username=soumyadeepmagnusx&color=00F0FF&style=for-the-badge&label=TELEMETRY+PINGS&labelColor=0d1117" />
 </a>
 
+<br/><br/>
+
+<!-- 🏆 GAMIFIED GITHUB TROPHIES -->
+<a href="https://github.com/soumyadeepmagnusx">
+  <img src="https://github-profile-trophy.vercel.app/?username=soumyadeepmagnusx&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+</a>
+
 </div>
 
 <br/>
 
 > [!IMPORTANT]
-> **Mission Telemetry**: Solving high-stakes real-world problems at the convergence of **Spatiotemporal Physics & Machine Learning** (Ministry of Earth Sciences) and **Deterministic Agentic Security** (GemmaSentinel).
+> **Mission Telemetry**: Solving high-stakes real-world problems at the intersection of **Spatiotemporal Physics & Machine Learning** (Ministry of Earth Sciences) and **Deterministic Agentic Security** (GemmaSentinel).
 
 ---
 
@@ -88,6 +93,10 @@ flagship_domains:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,docker,mongodb,postgres,git,githubactions,linux,vscode&perline=11" />
   </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,postman,c,cpp&perline=11" />
+  </a>
 </div>
 
 <br/>
@@ -107,5 +116,5 @@ flagship_domains:
 * **Stack:** `Python` • `PyTorch` • `Spatiotemporal Deep Learning` • `GIS Hydrodynamics` • `Radar Telemetry`
 
 <details>
-<summary><b>🔍 Expand System Dataflow & Architecture Blueprint</b></summary>
+<summary><b>🔍 Click to Expand Architecture Blueprint</b></summary>
 <br/>
