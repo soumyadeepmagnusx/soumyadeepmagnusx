@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- 🌊 CYBER WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,18,24,30&height=230&section=header&text=SOUMYADEEP%20G.&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=%E2%88%95%E2%88%95%20Applied%20AI%20%E2%80%A2%20Spatiotemporal%20Modeling%20%E2%80%A2%20Autonomous%20Agents&descFontSize=18&descAlignY=62&descAlign=50" width="100%"/>
+<!-- 🌊 CYBERNETIC WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=240&section=header&text=SOUMYADEEP%20G.&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=%E2%88%95%E2%88%95%20Applied%20AI%20%E2%80%A2%20Spatiotemporal%20Modeling%20%E2%80%A2%20Autonomous%20Swarm%20Agents&descFontSize=17&descAlignY=62&descAlign=50" width="100%"/>
 
-<!-- ⚡ NEON TYPEWRITER TERMINAL -->
+<!-- ⚡ GLITCH NEON TYPEWRITER -->
 <a href="https://github.com/soumyadeepmagnusx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Architecting+Spatiotemporal+Disaster+Intelligence;%F0%9F%9B%A1%EF%B8%8F+Autonomous+LLM+Agents+%26+AST+Code+Security;%F0%9F%8C%8A+2D+Hydrodynamic+Flood+Inundation+Forecasting;%F0%9F%9A%80+Google+Gemma+%E2%80%A2+Groq+LPU+%E2%80%A2+PyTorch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=%E2%9A%A1+ARCHITECTING+SPATIOTEMPORAL+DISASTER+INTELLIGENCE;%F0%9F%9B%A1%EF%B8%8F+AUTONOMOUS+LLM+AGENTS+%26+AST+CODE+SECURITY;%F0%9F%8C%8A+2D+HYDRODYNAMIC+FLOOD+INUNDATION+ENGINES;%F0%9F%A7%A0+GOOGLE+GEMMA+%E2%80%A2+GROQ+LPU+%E2%80%A2+PYTORCH+CORE" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- 🛰️ TELEMETRY PILLS & VISITOR COUNTER -->
+<!-- 🛰️ SYSTEM HUD STATUS PILLS -->
 <a href="https://github.com/soumyadeepmagnusx">
   <img src="https://img.shields.io/badge/MISSION-EARTH_SCIENCES-00F0FF?style=for-the-badge&logoColor=black&labelColor=0d1117" />
 </a>
@@ -18,15 +18,15 @@
   <img src="https://img.shields.io/badge/STATUS-OPERATING_AT_FRONTIER-7928CA?style=for-the-badge&logoColor=white&labelColor=0d1117" />
 </a>
 <a href="https://github.com/soumyadeepmagnusx">
-  <img src="https://img.shields.io/badge/LOCATION-KOLKATA%2C_IN-FF007A?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/NODE-KOLKATA%2C_IN-FF007A?style=for-the-badge&logoColor=white&labelColor=0d1117" />
 </a>
 <a href="https://github.com/soumyadeepmagnusx">
-  <img src="https://komarev.com/ghpvc/?username=soumyadeepmagnusx&color=00F0FF&style=for-the-badge&label=TELEMETRY+PINGS&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=soumyadeepmagnusx&color=00F0FF&style=for-the-badge&label=NEURAL_PINGS&labelColor=0d1117" />
 </a>
 
 <br/><br/>
 
-<!-- 🏆 GAMIFIED GITHUB TROPHIES -->
+<!-- 🏆 HOLOGRAPHIC GITHUB TROPHIES -->
 <a href="https://github.com/soumyadeepmagnusx">
   <img src="https://github-profile-trophy.vercel.app/?username=soumyadeepmagnusx&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 </a>
@@ -35,86 +35,65 @@
 
 <br/>
 
-> [!IMPORTANT]
-> **Mission Telemetry**: Solving high-stakes real-world problems at the intersection of **Spatiotemporal Physics & Machine Learning** (Ministry of Earth Sciences) and **Deterministic Agentic Security** (GemmaSentinel).
-
 ---
 
-### 💻 `console // Live Endpoint Telemetry`
+### 🖥️ `terminal // System Telemetry Console`
 
 ```bash
-$ curl -s https://api.soumyadeep.dev/v1/telemetry | jq .
+🔴 🟡 🟢  soumyadeep@neural-core: ~ (zsh)
+$ sysctl -a --telemetry | grep -E "ACTIVE|STATUS|KERNEL"
 ```
-```json
-{
-  "node": "soumyadeepmagnusx // Sovereign Neural Core",
-  "status": "ONLINE",
-  "latency_p99": "0.84ms",
-  "active_deployments": [
-    {
-      "system": "RAINSHIELD-AI v6.0",
-      "target": "Ministry of Earth Sciences (SIH26071)",
-      "telemetry": "2D Hydrodynamic Inundation + DWR Radar Ingestion"
-    },
-    {
-      "system": "GemmaSentinel 2.0",
-      "target": "Oracle Kolkata x Hacktoberfest",
-      "telemetry": "AST Security Traversal + Groq LPU Voice Copilot"
-    }
-  ],
-  "invariants": ["Zero-Hallucination AST Verification", "Mass Conservation Hydrodynamics"]
-}
-```
-
----
-
-### 🧠 `whoami // Neural & Systems Telemetry`
 
 ```yaml
-engineer:
-  handle: "Soumyadeep G. (@soumyadeepmagnusx)"
-  core_specialization: "Spatiotemporal Deep Learning & Autonomous Agentic Pipelines"
-  status: "⚡ In Production // Hackathon Winner & Finalist"
+  HOST          :: Sovereign Neural Core (soumyadeepmagnusx)
+  STATUS        :: 🟢 ONLINE // High-Throughput Model Serving
+  KERNEL        :: PyTorch 2.x • CUDA 12 • Groq LPU Hardware Acceleration
+  LATENCY_P99   :: 0.84ms // Sub-Second Disaster Telemetry Loop
   
-flagship_domains:
-  - 🛰️ Spatiotemporal Geospatial AI:
-      capabilities: "Multi-Source Radar/Satellite Fusion • 2D Hydrodynamic Flood Routing • NWP Convective Storm Casting"
-  - 🛡️ Agentic Security & Code Intelligence:
-      capabilities: "Deterministic AST Vulnerability Parsing • Groq LPU Sub-Second Inference • Google Gemma"
-  - 🗄️ High-Throughput Database Telemetry:
-      capabilities: "Oracle SQL Execution Plan Optimization • MongoDB Atlas Time-Series • ElevenLabs Voice Streams"
+  ACTIVE DEPLOYMENTS:
+    - 🌊 RAINSHIELD-AI v6.0 :: Ministry of Earth Sciences (SIH26071)
+        [Inundation Modeling • INSAT + Doppler Radar Fusion • Ward-Level GeoJSON]
+    - 🛡️ GemmaSentinel 2.0  :: Oracle Kolkata x Hacktoberfest
+        [AST Vulnerability Auditing • Groq Ultra-Low Latency • Voice Telemetry]
+        
+  STRICT INVARIANTS:
+    - Ground-Truth Hydrologic Physics (Mass Conservation)
+    - Deterministic Abstract Syntax Tree Traversal (Zero-Hallucination Gate)
 ```
 
 ---
 
-### 🛠️ `stack // Weaponry & Toolchain`
+### 🛠️ `armory // Weapons & Neural Toolchain`
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,docker,mongodb,postgres,git,githubactions,linux,vscode&perline=11" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,postman,c,cpp&perline=11" />
-  </a>
+
+<!-- TIER 1: CORE AI & SYSTEMS -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,docker,mongodb,postgres,linux,git,githubactions,vscode&perline=11" />
+</a>
+
+<br/>
+
+<!-- TIER 2: DISTRIBUTED & FULL-STACK -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postman,c,cpp,html,css,bash&perline=11" />
+</a>
+
 </div>
 
 <br/>
 
 ---
 
-### 🏆 `spotlight // Flagship Engineering Systems`
+### 🏆 `flagship // Mission-Critical Deployments`
 
-#### 🌊 [RAINSHIELD-AI v6.0](https://github.com/soumyadeepmagnusx/rainshield-ai-sih26071) — *Spatiotemporal Rainfall & 2D Inundation Command Center*
-> [!TIP]
-> **Ministry of Earth Sciences (MoES) // Smart India Hackathon (SIH26071)**  
-> `Status: 🟢 Production-Ready Engine` • `Domain: Spatiotemporal Geospatial ML`
-
-* **Multimodal Meteorological Ingestion:** Ingests live INSAT satellite channels, Doppler Weather Radar (DWR) reflectivity cubes, automated surface weather stations, and Numerical Weather Prediction (NWP) grids.
-* **2D Hydrodynamic Surface Inundation:** Replaces brittle single-threshold rainfall gauges with localized 2D floodwater accumulation modeling down to municipal ward resolution.
-* **Disaster Command Telemetry:** Continuous convective storm evolution tracking with sub-second alert dispatch to mitigate flash-flood emergencies.
-* **Stack:** `Python` • `PyTorch` • `Spatiotemporal Deep Learning` • `GIS Hydrodynamics` • `Radar Telemetry`
-
-<details>
-<summary><b>🔍 Click to Expand Architecture Blueprint</b></summary>
 <br/>
+
+#### 🌊 **[RAINSHIELD-AI v6.0](https://github.com/soumyadeepmagnusx/rainshield-ai-sih26071)** — *Spatiotemporal Rainfall & 2D Inundation Command Center*
+> [!IMPORTANT]
+> **Developed for the Ministry of Earth Sciences (MoES) // Smart India Hackathon (`SIH26071`)**  
+> `Status: 🟢 Production-Grade Command Engine` • `Specialization: Geospatial Deep Learning`
+
+* **Multi-Sensor Radar Fusion:** Ingests raw Doppler Weather Radar (DWR) reflectivity cubes, INSAT multispectral satellite bands, and Numerical Weather Prediction (NWP) grids into a spatiotemporal feature encoder.
+* **Hydrodynamic 2D Runoff Engine:** Replaces brittle single-threshold gauge alerts with continuous physical surface runoff modeling, computing localized water depth contours down to municipal ward resolution.
+* **Early-Warning Dispatch:** Sub-second anomaly detection triggering automated emergency response alerts for rapid flash-flood mitigation.
