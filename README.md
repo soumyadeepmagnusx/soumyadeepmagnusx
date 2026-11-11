@@ -1,16 +1,16 @@
 <div align="center">
 
-  <!-- ✨ MONOSPACE HEADER (Matches the screenshot style) -->
+  <!-- ✨ MONOSPACE HEADER -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=520&lines=Applied+AI+Engineer+%E2%99%9F%EF%B8%8F;Spatiotemporal+ML+%26+Agents+%E2%9C%A8" alt="Header" />
 
   <br/>
 
-  <!-- ♟️ MAGNUS CARLSEN GIF (Loaded directly from your repo) -->
-  <img src="./magnus.gif" width="420" alt="Magnus Carlsen" />
+  <!-- ♟️ MAGNUS CARLSEN GIF -->
+  <img src="https://github.com/soumyadeepmagnusx/soumyadeepmagnusx/blob/main/magnus.gif.gif?raw=true" width="420" alt="Magnus Carlsen" />
 
   <br/><br/>
 
-  <!-- 🔘 3 CENTERED BUTTONS (Email, GitHub, LinkedIn) -->
+  <!-- 🔘 3 CENTERED BUTTONS -->
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
